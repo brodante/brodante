@@ -88,7 +88,7 @@ I'm Surya, a full-time college student, part-timer ? well I do Competitive Codin
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodante&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodante&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
 
@@ -105,3 +105,6 @@ I'm Surya, a full-time college student, part-timer ? well I do Competitive Codin
 
 
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
