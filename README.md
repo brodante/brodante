@@ -16,8 +16,8 @@
 <a href="https://www.youtube.com/user/brodanteyt" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  
-<script src="https://tryhackme.com/badge/1422653"></script>
+<br/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="TryHackMe">
 
 
 ### Glad to see you here!  
