@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Surya Pratap Singh Chauhan!  
   
 <br/>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="TryHackMe">
 
 <a href="https://github.com/brodante" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
