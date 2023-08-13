@@ -94,7 +94,7 @@ I'm Surya, a full-time college student, part-timer ? well I do Competitive Codin
 
 <br/>  
 
-  
+congrats you found the special corgi <img  width="45" src="https://github.com/brodante/brodante/blob/main/assests/special%20corgi.gif" style="vertical-align: bottom">
 
 <br/>  
 
