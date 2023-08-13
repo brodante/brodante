@@ -1,4 +1,4 @@
-## Hey 👋, I'm Surya Pratap Singh Chauhan! <img  width="40" src="https://github.com/brodante/brodante/blob/main/assests/corgi.gif">
+## Hey 👋, I'm Surya Pratap Singh Chauhan! <img  width="50" src="https://github.com/brodante/brodante/blob/main/assests/corgi.gif">
   
 <br/>
 <img src="http://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="TryHackMe">
