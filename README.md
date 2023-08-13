@@ -1,4 +1,4 @@
-## Hey 👋, I'm Surya Pratap Singh Chauhan!<img src="https://giphy.com/embed/QpXG2TEd8wUA8">
+## Hey 👋, I'm Surya Pratap Singh Chauhan! <img src="https://giphy.com/embed/QpXG2TEd8wUA8">
   
 <br/>
 <img src="http://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="TryHackMe">
