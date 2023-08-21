@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Surya Pratap Singh Chauhan!  <img  width="45" src="https://github.com/brodante/brodante/blob/main/assests/corgi.gif" style="vertical-align: bottom">
 <br/>
-<img src="https://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="TryHackMe">
+<img src="http://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="TryHackMe">
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Uwu" alt="Typing SVG" /></a>
 <br>
