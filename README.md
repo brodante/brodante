@@ -4,7 +4,6 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Uwu" alt="Typing SVG" /></a>
 <br>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="35137569-a7d5-42be-b52d-6e7da9fd5417" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <a href="https://github.com/brodante" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
