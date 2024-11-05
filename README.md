@@ -1,4 +1,4 @@
-## Hey 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=360&height=20&lines=Surya+Pratap+Singh+Chauhan+!" alt="Surya Pratap Singh Chauhan" /></a>
+## Hey 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&vCenter=true&width=420&height=20&lines=Surya+Pratap+Singh+Chauhan+!" alt="Typing SVG" /></a>
 <br/>
 <a href="https://www.tryhackme.com/p/spsc/"><img src="https://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="THM"></a>
 <br>
