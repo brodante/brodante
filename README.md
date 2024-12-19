@@ -1,11 +1,11 @@
 ## Hey 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&pause=1000&vCenter=true&width=420&height=25&lines=Surya+Pratap+Singh+Chauhan+!" alt="Typing SVG" /></a>
 <br/>
 <a href="https://www.tryhackme.com/p/spsc/"><img src="https://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="TryHackme" /></a>
-<a href="https://github.com/brodante" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/></a>
-<a href="https://twitter.com/singh_senpai" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;"/></a>
-<a href="https://linkedin.com/in/spsc" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/></a>
-<a href="https://instagram.com/surya_pratap_singh_chauhan__" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/></a>
-<a href="https://www.youtube.com/@brodanteyt" target="_blank"><img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;"/></a>  
+<a href="https://github.com/brodante" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 4px;"/></a>
+<a href="https://twitter.com/singh_senpai" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 4px;"/></a>
+<a href="https://linkedin.com/in/spsc" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 4px;"/></a>
+<a href="https://instagram.com/surya_pratap_singh_chauhan__" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 4px;"/></a>
+<a href="https://www.youtube.com/@brodanteyt" target="_blank"><img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 4px;"/></a>  
 
 
 ### Glad to see you here!  
