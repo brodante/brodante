@@ -1,3 +1,9 @@
+
+![Profile views counter](https://komarev.com/ghpvc/?username=brodante&&style=flat-square)  
+  
+<br/>
+\
+
 ## Hey 👋, I'm <a href="https://linkedin.com/in/spsc/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&pause=1000&vCenter=true&width=420&height=25&lines=Surya+Pratap+Singh+Chauhan+!" alt="Typing SVG" /></a>
 <br/>
 <a href="https://www.tryhackme.com/p/spsc/"><img src="https://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="TryHackme" /></a>
@@ -88,11 +94,3 @@ congrats you found the special corgi!
 <img  width="45" src="https://github.com/brodante/brodante/blob/main/assests/special%20corgi.gif" style="vertical-align: bottom">
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=brodante&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
