@@ -1,8 +1,6 @@
 
-![Profile views counter](https://komarev.com/ghpvc/?username=brodante&&style=flat-square)  
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=brodante&&style=flat-square) 
 <br/>
-\
 
 ## Hey 👋, I'm <a href="https://linkedin.com/in/spsc/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&pause=1000&vCenter=true&width=420&height=25&lines=Surya+Pratap+Singh+Chauhan+!" alt="Typing SVG" /></a>
 <br/>
