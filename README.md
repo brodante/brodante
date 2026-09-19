@@ -1,94 +1,141 @@
+<h1 align="center">Surya</h1>
+<h3 align="center">Information Security M.Tech @ NSUT | Cybersecurity, Cryptography & Secure Systems</h3>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=brodante&&style=flat-square) 
-<br/>
+<p align="center">
+  <a href="https://github.com/brodante">
+    <img src="https://img.shields.io/github/followers/brodante?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/brodante">
+    <img src="https://komarev.com/ghpvc/?username=brodante&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="[YOUR_LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:[YOUR_EMAIL]">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## Hey 👋, I'm <a href="https://linkedin.com/in/spsc/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&pause=1000&vCenter=true&width=420&height=25&lines=Surya+Pratap+Singh+Chauhan+!" alt="Typing SVG" /></a>
-<br/>
-<a href="https://www.tryhackme.com/p/spsc/"><img src="https://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="TryHackme" /></a>
-<br>
-<a href="https://github.com/brodante" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 4px;"/></a>
-<a href="https://twitter.com/singh_senpai" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 4px;"/></a>
-<a href="https://linkedin.com/in/spsc" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 4px;"/></a>
-<a href="https://instagram.com/surya_pratap_singh_chauhan__" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 4px;"/></a>
-<a href="https://www.youtube.com/@brodanteyt" target="_blank"><img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 4px;"/></a>  
+---
 
+> Security is not a product, but a process. Debugging is also a process. Both are usually on fire.
 
-### Glad to see you here!  
-I'm Surya, a full-time college student, part-timer ? well I do Competitive Coding, Bug Bounty Hunting, Penetration Testing, and Competitive Gaming (Valorant and CS:GO)  
-  
+## About
 
-<br/>  
+- M.Tech in Information Security at NSUT, New Delhi — 2026–2028 (expected)
+- B.Tech in Computer Science & Engineering at Dr. A.P.J. Abdul Kalam Technical University, Lucknow — 2020–2024
+- Former Software Development Engineer at Nimbus Gaming
+- Former Network Engineer (Interface) at Ernst & Young LLP
+- Interested in application security, cryptography, secure firmware, AI-driven fraud detection, and vulnerability assessment
+- Languages: English (Business), Hindi (Native), Japanese (JLPT N4 / Conversational)
 
+## Current Focus
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+- Building **KryptBoard Emulator** — pre-send authenticated encryption for browser input
+- Maintaining **Knowledge Base** — cybersecurity notes, vulnerability assessment, and development workflows
+- Improving Japanese beyond “this is a pen” — JLPT N4 currently
+- Reading documentation before writing code. Occasionally.
 
-- 🔭 I’m currently working on Chinatsu, A C++ Game Engine.  
-  
+## Tech Stack
 
-- 🌱 I’m currently learning Vulnerability Exploitation  
-  
+**Languages**
 
-- ❓ Ask me about anything related to C++, Ethical Hacking and Competitive Gaming (Valorant & CS:GO)  
-  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- ⚡ Fun fact: I can eat chips without touching them  
+**Security & Tools**
 
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-</td><td valign="top" width="50%">
+**Frameworks & Libraries**
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/brodante/Surya/main/static/greetings.gif" align="center" style="width: 100%" />
-</div>  
+Metasploit · Fernet · Crypto++ · STL · Python OS · PWA
 
+## Featured Projects
 
-</td></tr></table>  
+| Project | Stack | Description | Links |
+|---|---|---|---|
+| **Kanji-Widget-App** | JavaScript, HTML5, CSS3, PWA | Japanese Kanji learning PWA with customizable widgets, spaced repetition, native audio, and offline backup. | [Repo](https://github.com/brodante/kanji-widget-app) · [Live](https://brodante.github.io/kanji-widget-app/) |
+| **KryptBoard Emulator** | Python 3.10, PyCryptodome, ChaCha20-Poly1305 | Browser extension demonstrating pre-send authenticated encryption for web input and keystrokes. | [Repo](https://github.com/brodante/KryptBoard-Emulator) |
+| **Knowledge Base** | Markdown, Documentation | Open-source technical knowledge base covering cybersecurity concepts, vulnerability assessment, and development workflows. | [Repo](https://github.com/brodante/knowledge-base) · [Live](https://brodante.github.io/knowledge-base/) |
+| **KeyGuardian** | Python (Fernet), C++ | Python tool for securely encrypting files and folders using Fernet — AES-128-CBC with HMAC. | [Repo](https://github.com/brodante/KeyGuardian) |
 
-<br/>  
+## Publications
 
+- **Secure Your Words Before You Send: the KryptBoard Pre-Send Encryption Method** — Jan 2026  
+  Co-author. Presented at *2026 International Conference on Emerging Trends and Innovations in ICT (ICEI)*.  
+  DOI: [10.1109/icei65890.2026.11447792](https://doi.org/10.1109/icei65890.2026.11447792)
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
-</div>  
+- **Cyber Security-Driven Financial Fraud Detection Model Using AI: A Hybrid Framework** — Nov 2025  
+  Co-author. Presented at *2025 IEEE 3rd Global Conference on Wireless Computing and Networking (GCWCN)*.  
+  DOI: [10.1109/gcwn66157.2025.11448457](https://doi.org/10.1109/gcwn66157.2025.11448457)
 
-<br/>  
+- **KeyGuardian: Application of Fernet for Digital Asset Protection** — May 2024  
+  Co-author. Published in *International Journal of Scientific Research in Engineering and Management*.  
+  DOI: [10.55041/ijsrem34392](https://doi.org/10.55041/ijsrem34392)
 
+## Experience
 
-## Github Stats  
-<table border="0"><tr><td valign="top" width="50%">
+**Software Development Engineer** — Nimbus Gaming, Jhansi, India  
+*Jun 2024 – Aug 2025*
 
-<img src="https://github-readme-stats.vercel.app/api?username=brodante&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+- Developed companion software for peripherals, enabling user customization and seamless firmware integration.
+- Contributed to C++ firmware for a wireless gaming mouse with PAW3360 sensor, achieving stable 1000 Hz polling rate and reducing driver size by 35%.
+- Designed an extensible architecture for PAW3395 sensor integration.
 
-</td><td valign="top" width="50%">
+**Network Engineer (Interface)** — Ernst & Young LLP, New Delhi, India  
+*Feb 2023 – May 2023*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodante&hide_border=true&layout=compact" align="left" style="width: 95%" />
+- Assisted cybersecurity investigation and testing.
+- Identified 7+ vulnerabilities using Burp Suite and Nmap, contributing to improved client data protection.
 
-</td></tr></table>  
+## Certifications
 
-<br/>  
+- DIAT Certified Information Assurance Professional
+- Ethical Hacker (Cisco)
+- Cyber Threat Management (Cisco)
+- IT Security: Defense against the Digital Dark Arts (Google)
+- Automate Cybersecurity Tasks with Python (Google)
+- Put It to Work: Prepare for Cybersecurity Jobs (Google)
+- Operating Systems: Overview, Administration, and Security (IBM)
 
-congrats you found the special corgi!
-<br>
-<img  width="45" src="https://github.com/brodante/brodante/blob/main/assests/special%20corgi.gif" style="vertical-align: bottom">
+## GitHub Stats
 
-<br/>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brodante&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brodante&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodante&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brodante&theme=github-dark&hide_border=true" alt="Activity graph" />
+</p>
+
+<!-- Optional contribution snake. Requires a GitHub Action to generate the SVG.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brodante/brodante/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+-->
+
+## Connect
+
+- GitHub: [brodante](https://github.com/brodante)
+- LinkedIn: `[/in/spsc/](https://linkedin.com/in/spsc)`
+- Portfolio: `[portfolio](https://brodante.github.io/portfolio/)`
+
+---
+
+If you’re hiring for security, firmware, or software roles, my inbox is open.  
+If you’re a vulnerability, please use responsible disclosure.
