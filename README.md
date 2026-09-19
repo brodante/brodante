@@ -129,8 +129,8 @@ Metasploit · Fernet · Crypto++ · STL · Python OS · PWA
 ## Connect
 
 - GitHub: [brodante](https://github.com/brodante)
-- LinkedIn: `[/in/spsc/](https://linkedin.com/in/spsc)`
-- Portfolio: `[portfolio](https://brodante.github.io/portfolio/)`
+- LinkedIn: [/in/spsc/](https://linkedin.com/in/spsc)
+- Portfolio: [portfolio](https://brodante.github.io/portfolio/)
 
 ---
 
