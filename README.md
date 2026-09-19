@@ -8,11 +8,8 @@
   <a href="https://github.com/brodante">
     <img src="https://komarev.com/ghpvc/?username=brodante&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
   </a>
-  <a href="[YOUR_LINKEDIN]">
+  <a href="(https://linkedin.com/in/spsc)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
