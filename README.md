@@ -88,3 +88,5 @@ congrats you found the special corgi!
 <br/>  
 
 よろしくお願いします！
+
+![img](assests/marin.gif)  
