@@ -6,7 +6,7 @@
 
 <p><strong>Mizuhara in game. Dante at the keyboard.</strong></p>
 
-<p>Competitive programming, ethical hacking, game development. Make things, break things responsibly, queue Valorant.</p>
+<p>Information security, applied cryptography, and open-source software. Building KanjiWidgets daily; KryptBoard's browser preview and demo are live.</p>
 
 <p align="left">
   <a href="https://github.com/brodante"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
@@ -25,11 +25,12 @@
   <tr>
     <td width="69%" valign="top">
       <h2>自己紹介 / ABOUT</h2>
-      <p>College student, builder, and ethical hacking enthusiast. I speak a little Japanese (JLPT N4, everyday-conversation level).</p>
-      <p>大学生です。C++のゲームエンジン「Chinatsu」を作りながら、脆弱性解析を勉強しています。日本語はJLPT N4で、日常会話を少し話せます。</p>
+      <p>M.Tech student in Information Security at NSUT, focused on practical security and open-source software. Japanese learner (JLPT N4, conversational).</p>
+      <p>NSUTで情報セキュリティを専攻する修士課程の学生です。現在は漢字学習PWA「KanjiWidgets」を毎日開発し、送信前暗号化デモ「KryptBoard」も進めています。日本語はJLPT N4で、日常会話を少し話せます。</p>
       <h3>いま / CURRENT LOOP</h3>
-      <p><strong>BUILD</strong> Chinatsu, a C++ game engine.<br />
-      <strong>LEARN</strong> Vulnerability exploitation and bug bounty hunting.<br />
+      <p><strong>BUILD DAILY</strong> KanjiWidgets, an offline-first kanji PWA for JLPT N5–N1 with spaced repetition. <a href="https://kanji.qd.je/">Live app</a> · <a href="https://github.com/brodante/kanji-widget-app">Source</a>.<br />
+      <strong>DEMO</strong> KryptBoard, pre-send browser encryption with ChaCha20-Poly1305. <a href="https://brodante.github.io/KryptBoard/">Preview</a> · <a href="https://brodante.github.io/KryptBoard/demo/demo.html">Interactive demo</a>.<br />
+      <strong>FOCUS</strong> Applied cryptography and web security.<br />
       <strong>PLAY</strong> Valorant and CS:GO.<br />
       <strong>ODD SKILL</strong> I can eat chips without touching them.</p>
     </td>
