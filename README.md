@@ -8,7 +8,13 @@
 
 <p>Competitive programming, ethical hacking, game development. Make things, break things responsibly, queue Valorant.</p>
 
-<p><a href="https://github.com/brodante">GitHub</a> · <a href="https://linkedin.com/in/spsc">LinkedIn</a> · <a href="https://www.youtube.com/@brodanteyt">YouTube</a> · <a href="https://www.tryhackme.com/p/spsc">TryHackMe</a></p>
+<p align="left">
+  <a href="https://github.com/brodante"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/spsc"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@brodanteyt"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.tryhackme.com/p/spsc"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" /></a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=brodante&amp;style=for-the-badge&amp;label=Profile%20views" alt="GitHub profile views" />
+</p>
 
 </div>
 
@@ -89,6 +95,5 @@
 <p align="right"><img src="./assests/special%20corgi.gif" width="86" alt="The special corgi" /></p>
 
 <p align="left">プロフィールを見てくれてありがとう。よろしくお願いします。またね。</p>
-<p align="left">Profile views: <img src="https://komarev.com/ghpvc/?username=brodante&amp;style=flat-square" alt="Profile views" /></p>
 
 <img src="./assests/marin.gif" width="100%" alt="Marin, the wide anime GIF saved for the footer" />
