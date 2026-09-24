@@ -8,11 +8,12 @@
 
 <p>Competitive programming, ethical hacking, game development. Make things, break things responsibly, queue Valorant.</p>
 
-<p><a href="https://github.com/brodante">GitHub</a> · <a href="https://linkedin.com/in/spsc">LinkedIn</a> · <a href="https://twitter.com/singh_senpai">X</a> · <a href="https://instagram.com/surya_pratap_singh_chauhan__">Instagram</a> · <a href="https://www.youtube.com/@brodanteyt">YouTube</a> · <a href="https://www.tryhackme.com/p/spsc">TryHackMe</a></p>
+<p><a href="https://github.com/brodante">GitHub</a> · <a href="https://linkedin.com/in/spsc">LinkedIn</a> · <a href="https://www.youtube.com/@brodanteyt">YouTube</a> · <a href="https://www.tryhackme.com/p/spsc">TryHackMe</a></p>
 
 </div>
 
 <img src="./assests/anime-scenery.gif" width="100%" alt="A quiet sakura-lined Japanese street after rain, animated at blue hour" />
+<img src="./assests/sakura-divider.gif" width="100%" alt="A thin transparent animated sakura vine with pink and white blossoms and falling petals" />
 
 <table>
   <tr>
@@ -27,17 +28,16 @@
       <strong>ODD SKILL</strong> I can eat chips without touching them.</p>
     </td>
     <td width="31%" align="center" valign="middle">
-      <img src="./assests/petals2.gif" width="100%" alt="Animated sakura petals on a transparent background" />
+      <img src="./assests/petals2.gif" height="210" alt="Animated sakura petals on a transparent background" /><br />
+      <img src="./assests/chika.gif" height="125" alt="Chika dancing" />
     </td>
   </tr>
 </table>
 
-<p align="right"><img src="./assests/chika.gif" height="145" alt="Chika dancing" /></p>
-
 <table>
   <tr>
     <td width="22%" align="center" valign="middle">
-      <img src="./assests/aqua%20dancing.gif" height="190" alt="Aqua dancing" />
+      <img src="./assests/aqua%20dancing.gif" height="150" alt="Aqua dancing" />
     </td>
     <td width="78%" valign="middle">
       <h2>技術と道具 / STUFF I USE</h2>
@@ -52,6 +52,7 @@
 
 <!-- Refreshed by .github/workflows/metrics.yml. -->
 <img src="./metrics.svg" alt="GitHub activity and repository metrics" width="100%" />
+<img src="./assests/sakura-divider.gif" width="100%" alt="Thin animated sakura branch divider" />
 
 <h2>アニメと漫画 / ANIME AND MANGA</h2>
 
@@ -60,21 +61,21 @@
 <!-- Generated from the AniList plugin in lowlighter/metrics. -->
 <img src="./metrics.plugin.anilist.svg" alt="AniList favorites, currently watching and reading, and liked characters" width="100%" />
 
+<h2>雨の時間 / RAINY-DAY CUT</h2>
+<p>Somewhere between the last commit and the next one.</p>
+
 <table>
   <tr>
-    <td width="63%" valign="middle">
-      <h2>雨の時間 / RAINY-DAY CUT</h2>
-      <p>Somewhere between the last commit and the next one.</p>
-      <img src="./assests/rain%20sakura.gif" width="100%" alt="Sakura drifting through a rainy anime scene" />
+    <td width="50%" align="center">
+      <img src="./assests/rain%20sakura.gif" width="88%" alt="Sakura drifting through a rainy anime scene" />
     </td>
-    <td width="37%" align="right" valign="bottom">
-      <img src="./assests/rain.gif" width="100%" alt="Anime scenery in the rain" />
+    <td width="50%" align="center">
+      <img src="./assests/rain.gif" width="88%" alt="Anime scenery in the rain" />
     </td>
   </tr>
 </table>
 
 <p align="right">特別なコーギーを見つけました。 You found the special corgi.</p>
-
 <p align="right"><img src="./assests/special%20corgi.gif" width="86" alt="The special corgi" /></p>
 
 <p align="left">プロフィールを見てくれてありがとう。よろしくお願いします。またね。</p>

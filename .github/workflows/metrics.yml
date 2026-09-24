@@ -17,6 +17,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: ${{ github.ref_name }}
           user: brodante
           filename: metrics.svg
           base: header, activity, community, repositories, metadata
@@ -29,6 +30,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: ${{ github.ref_name }}
           user: brodante
           filename: metrics.plugin.anilist.svg
           base: ""
