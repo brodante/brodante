@@ -53,7 +53,7 @@
       <h3>AniList / アニメ棚</h3>
       <p><a href="https://anilist.co/user/spsc/">Open my AniList profile</a></p>
       <!-- Mayu counts loads of this anime-themed badge, not direct visits to AniList. -->
-      <p><a href="https://anilist.co/user/spsc/"><img src="https://mayu.due.moe/get/@brodante-anilist-profile?theme=yuruyuri" alt="Anime-themed AniList badge views" height="40" /></a></p>
+      <p><a href="https://anilist.co/user/spsc/"><img src="https://mayu.due.moe/get/@brodante-anilist-profile?theme=yuruyuri" alt="Anime-themed AniList badge views" height="40" /></a><br /><small>Badge loads, not direct AniList profile visits.</small></p>
       <!-- Generated from the compact AniList plugin in lowlighter/metrics. -->
       <img src="./metrics.plugin.anilist.svg" alt="AniList anime and manga favorites, currently watching, and liked characters" width="100%" />
     </td>
