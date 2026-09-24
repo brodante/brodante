@@ -1,6 +1,12 @@
 name: Update profile metrics
 
 on:
+  push:
+    branches:
+      - main
+      - arena/01a0d30d-brodante
+    paths:
+      - .github/workflows/metrics.yml
   schedule:
     - cron: "15 4 * * *"
   workflow_dispatch:
