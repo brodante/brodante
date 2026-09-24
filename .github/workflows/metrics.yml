@@ -61,3 +61,17 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           output_action: commit
+
+      - name: Generate issue and pull request follow-up
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: ${{ github.ref_name }}
+          user: brodante
+          filename: metrics.plugin.followup.svg
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_followup_archived: no
+          output_action: commit
