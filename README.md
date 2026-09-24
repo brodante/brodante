@@ -11,15 +11,15 @@
 <p align="left">
   <a href="https://github.com/brodante"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/spsc"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@brodanteyt"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
+  <a href="https://linktr.ee/learn.japanese"><img src="https://img.shields.io/badge/Learn%20Japanese-%2343E55E.svg?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" alt="Learn Japanese on Linktree" /></a>
   <a href="https://www.tryhackme.com/p/spsc"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" /></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=brodante&amp;style=for-the-badge&amp;label=Profile%20views" alt="GitHub profile views" />
 </p>
 
 </div>
 
-<img src="./assests/k-on.jpg" width="100%" alt="Wide K-On group scene under a bright blue sky" />
-<img src="./assests/sakura-divider.gif" width="100%" alt="A thin transparent band of pink and white sakura petals falling at different speeds" />
+<img src="./assests/love%20is%20war%20poster%20cropped.png" width="100%" alt="Cropped Love Is War poster banner" />
+<img src="./assests/sakura-divider.gif" width="100%" alt="A slim transparent band of smaller sakura petals falling at different speeds" />
 
 <table>
   <tr>
@@ -46,7 +46,7 @@
 <p><strong>Build</strong> Express.js, MySQL, Oracle, Unity</p>
 <p><strong>Tools</strong> Linux, Bash, PowerShell, Git, GitLab, Photoshop, Premiere Pro, After Effects</p>
 
-<img src="./assests/sakura-divider.gif" width="100%" alt="Pink and white petals falling across a transparent divider" />
+<img src="./assests/sakura-divider.gif" width="100%" alt="Small pink and white petals falling across a slim transparent divider" />
 
 <h2>記録と推し / STATS + ANIME</h2>
 <table>
@@ -92,8 +92,7 @@
   </tr>
 </table>
 
-<p align="right">特別なコーギーを見つけました。 You found the special corgi.</p>
-<p align="right"><img src="./assests/special%20corgi.gif" width="86" alt="The special corgi" /></p>
+<p align="left"><img src="./assests/special%20corgi.gif" width="86" align="right" alt="The special corgi" />&nbsp;&nbsp;特別なコーギーを見つけました。 You found the special corgi.</p>
 
 <p align="left">プロフィールを見てくれてありがとう。よろしくお願いします。またね。</p>
 
