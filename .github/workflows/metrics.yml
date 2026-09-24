@@ -1,6 +1,12 @@
 name: Update profile metrics
 
 on:
+  push:
+    branches:
+      - main
+      - arena/01a0d30d-brodante
+    paths:
+      - .github/workflows/metrics.yml
   schedule:
     - cron: "15 4 * * *"
   workflow_dispatch:
@@ -25,7 +31,7 @@ jobs:
           config_timezone: Asia/Kolkata
           output_action: commit
 
-      - name: Generate AniList panel
+      - name: Generate compact AniList panel
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -37,8 +43,35 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: spsc
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, watching, reading, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 12
+          plugin_anilist_sections: favorites, watching, characters
+          plugin_anilist_limit: 1
+          plugin_anilist_limit_characters: 6
           plugin_anilist_shuffle: no
+          output_action: commit
+
+      - name: Generate isometric contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: ${{ github.ref_name }}
+          user: brodante
+          filename: metrics.plugin.isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          output_action: commit
+
+      - name: Generate issue and pull request follow-up
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: ${{ github.ref_name }}
+          user: brodante
+          filename: metrics.plugin.followup.svg
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_followup_archived: no
           output_action: commit

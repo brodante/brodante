@@ -1,92 +1,129 @@
-## こんにちは 👋, I'm <a href="https://linkedin.com/in/spsc/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&pause=1000&vCenter=true&width=420&height=25&lines=Surya+Pratap+Singh+Chauhan+!" alt="Typing SVG" /></a>
-<br/>
-<a href="https://www.tryhackme.com/p/spsc/"><img src="https://tryhackme-badges.s3.amazonaws.com/spsc.png" alt="TryHackme" /></a>
-<br>
-<a href="https://github.com/brodante" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 4px;"/></a>
-<a href="https://twitter.com/singh_senpai" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 4px;"/></a>
-<a href="https://linkedin.com/in/spsc" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 4px;"/></a>
-<a href="https://instagram.com/surya_pratap_singh_chauhan__" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 4px;"/></a>
-<a href="https://www.youtube.com/@brodanteyt" target="_blank"><img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 4px;"/></a>  
+<img src="./assests/sakura-top-border.gif" width="100%" alt="Animated sakura branches form a transparent top border with falling petals" />
 
-### Glad to see you here! ようこそ！  
-I'm Surya, a full-time college student, part-timer ? well I do Competitive Coding, Bug Bounty Hunting, Penetration Testing, and Competitive Gaming (Valorant and CS:GO).  
-日本語も少し話せます (JLPT N4 / 日常会話レベル).
+<div align="left">
 
-<br/>  
+<p>ようこそ / WELCOME TO MY CORNER OF GITHUB</p>
 
-## Rapidfire / ラピッドファイア  
-<table><tr><td valign="top" width="50%">
+<h1>ダンテ / Dante</h1>
 
-- 🔭 現在取り組んでいること: Chinatsu, A C++ Game Engine.  
-  
-- 🌱 現在学んでいること: Vulnerability Exploitation  
-  
-- ❓ 質問があれば: C++, Ethical Hacking, Competitive Gaming (Valorant & CS:GO)  
-  
-- ⚡ 豆知識: I can eat chips without touching them.  
-  （チップスを手を使わずに食べられます。）
+<p><strong>Mizuhara in game. Dante at the keyboard.</strong><br />
+ゲームではMizuhara、キーボードの前ではDante。</p>
 
-</td><td valign="top" width="50%">
+<p>I study information security and applied cryptography, and I enjoy building open-source software. I work on KanjiWidgets every day, and KryptBoard's browser preview and demo are live.<br />
+情報セキュリティと応用暗号を学びながら、オープンソースのソフトウェアを作っています。KanjiWidgetsを毎日開発していて、KryptBoardのブラウザープレビューとデモも公開しています。</p>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/brodante/Surya/main/static/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<p align="left">
+  <a href="https://github.com/brodante"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/spsc"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linktr.ee/learn.japanese"><img src="https://img.shields.io/badge/Learn%20Japanese-%2343E55E.svg?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" alt="Learn Japanese on Linktree" /></a>
+  <a href="https://www.tryhackme.com/p/spsc"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" /></a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=brodante&amp;style=for-the-badge&amp;label=Profile%20views" alt="GitHub profile views" />
+</p>
 
+</div>
 
-</td></tr></table>  
+<img src="./assests/love%20is%20war%20poster%20cropped.png" width="100%" alt="Cropped Love Is War poster banner" />
 
-<br/>  
+<table>
+  <tr>
+    <td width="69%" valign="top">
+      <h2>自己紹介 / ABOUT</h2>
+      <p>M.Tech student in Information Security at NSUT, focused on practical security and open-source software. Japanese learner (JLPT N4, conversational).</p>
+      <p>NSUTで情報セキュリティを専攻する修士課程の学生です。現在は漢字学習PWA「KanjiWidgets」を毎日開発し、送信前暗号化デモ「KryptBoard」も進めています。日本語はJLPT N4で、日常会話を少し話せます。</p>
+      <h3>いま / CURRENT FOCUS</h3>
+      <p><strong>KanjiWidgets</strong> is my daily project. It is an offline-first kanji PWA with spaced repetition for JLPT levels N5 through N1.</p>
+      <p>
+        <a href="https://kanji.qd.je/"><img src="https://img.shields.io/badge/Live%20App-%232EA44F.svg?style=for-the-badge" alt="Open KanjiWidgets live app" /></a>
+        <a href="https://github.com/brodante/kanji-widget-app"><img src="https://img.shields.io/badge/Source-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View KanjiWidgets source" /></a>
+      </p>
+      <p><strong>KryptBoard</strong> is a browser demo of authenticated encryption before text is sent. It uses ChaCha20-Poly1305.</p>
+      <p>
+        <a href="https://brodante.github.io/KryptBoard/"><img src="https://img.shields.io/badge/Preview-%230A66C2.svg?style=for-the-badge" alt="Open KryptBoard browser preview" /></a>
+        <a href="https://brodante.github.io/KryptBoard/demo/demo.html"><img src="https://img.shields.io/badge/Try%20Demo-%237C3AED.svg?style=for-the-badge" alt="Try the interactive KryptBoard demo" /></a>
+        <a href="https://github.com/brodante/KryptBoard"><img src="https://img.shields.io/badge/Source-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View KryptBoard source" /></a>
+      </p>
+      <p><strong>FOCUS</strong> Applied cryptography and web security.</p>
+    </td>
+    <td width="31%" align="center" valign="middle">
+      <img src="./assests/petals2.gif" height="210" alt="Animated sakura petals on a transparent background" /><br />
+      <img src="./assests/chika.gif" height="125" alt="Chika dancing" />
+    </td>
+  </tr>
+</table>
 
-## Languages and Tools / 言語とツール  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
-</div>  
+<h2>技術と道具 / STUFF I USE</h2>
+<p><strong>Languages</strong> C, C++, Go, Java, JavaScript, Python, HTML, CSS</p>
+<p><strong>Build</strong> Express.js, MySQL, Oracle, Unity</p>
+<p><strong>Tools</strong> Linux, Bash, PowerShell, Git, GitLab, Photoshop, Premiere Pro, After Effects</p>
 
-<br/>  
+<h2>記録と推し / STATS + ANIME</h2>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>GitHub / 記録</h3>
+      <!-- Generated by .github/workflows/metrics.yml. -->
+      <img src="./metrics.svg" alt="GitHub activity and repository metrics" width="100%" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>AniList / アニメ棚</h3>
+      <p><a href="https://anilist.co/user/spsc/">Open my AniList profile</a></p>
+      <!-- Mayu counts loads of this anime-themed badge, not direct visits to AniList. -->
+      <p><a href="https://anilist.co/user/spsc/"><img src="https://mayu.due.moe/get/@brodante-anilist-profile?theme=yuruyuri" alt="Anime-themed AniList badge views" height="40" /></a><br /><small>Badge loads, not direct AniList profile visits.</small></p>
+      <!-- Generated from the compact AniList plugin in lowlighter/metrics. -->
+      <img src="./metrics.plugin.anilist.svg" alt="AniList anime and manga favorites, currently watching, and liked characters" width="100%" />
+    </td>
+  </tr>
+</table>
 
-## Github Stats / GitHub統計  
-<table border="0"><tr><td valign="top" width="50%">
+<h2>活動カレンダー / ACTIVITY CALENDAR</h2>
+<table>
+  <tr>
+    <td width="16%" align="center" valign="middle">
+      <img src="./assests/miku%20nod%20calendar.gif" height="250" alt="Hatsune Miku nodding toward the isometric contribution calendar" />
+    </td>
+    <td width="43%" align="center" valign="middle">
+      <!-- Generated by the isocalendar plugin in .github/workflows/metrics.yml. -->
+      <img src="./metrics.plugin.isocalendar.svg" width="430" alt="Six-month isometric GitHub contribution calendar" />
+    </td>
+    <td width="41%" align="center" valign="middle">
+      <h3>ISSUE &amp; PR FOLLOW-UP</h3>
+      <!-- Generated by the follow-up plugin in .github/workflows/metrics.yml. -->
+      <img src="./metrics.plugin.followup.svg" width="390" alt="Open and closed issues and pull requests across my repositories" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=brodante&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h2>放課後 / AFTER-SCHOOL CUT</h2>
+      <p>Somewhere between the last commit and the next one.</p>
+    </td>
+    <td width="42%" align="right" valign="middle">
+      <img src="./assests/k-on%20gang%20watching%20movie.jpg" width="100%" alt="K-On group watching a movie" />
+    </td>
+  </tr>
+</table>
 
-</td><td valign="top" width="50%">
+<h2>雨の時間 / RAINY-DAY CUT</h2>
+<p>Two small frames, same scale.</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assests/rain%20sakura.gif" width="88%" alt="Sakura drifting through a rainy anime scene" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./assests/rain.gif" width="88%" alt="Anime scenery in the rain" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodante&hide_border=true&layout=compact" align="left" style="width: 95%" />
+<p align="left"><img src="./assests/special%20corgi.gif" width="86" align="right" alt="The special corgi" />&nbsp;&nbsp;特別なコーギーを見つけました。 You found the special corgi.</p>
 
-</td></tr></table>  
+<img src="./assests/marin.gif" width="100%" alt="Marin, the wide anime GIF saved for the footer" />
 
-<br/>  
-
-congrats you found the special corgi!  
-特別なコーギーを見つけました！
-<br>
-<img  width="45" src="https://github.com/brodante/brodante/blob/main/assests/special%20corgi.gif" style="vertical-align: bottom">
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=brodante&&style=flat-square)  
-
-<br/>  
-
-よろしくお願いします！
-
-![img](assests/marin.gif)  
+<p align="center"><em>
+プロフィールを見てくれてありがとう。<br />
+よろしくお願いします。<br />
+またね。
+</em></p>
