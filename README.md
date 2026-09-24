@@ -51,10 +51,12 @@
   </tr>
 </table>
 
+<!--
 <h2>技術と道具 / STUFF I USE</h2>
 <p><strong>Languages</strong> C, C++, Go, Java, JavaScript, Python, HTML, CSS</p>
 <p><strong>Build</strong> Express.js, MySQL, Oracle, Unity</p>
 <p><strong>Tools</strong> Linux, Bash, PowerShell, Git, GitLab, Photoshop, Premiere Pro, After Effects</p>
+-->
 
 <h2>記録と推し / STATS + ANIME</h2>
 <table>
