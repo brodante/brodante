@@ -6,9 +6,11 @@
 
 <h1>ダンテ / Dante</h1>
 
-<p><strong>Mizuhara in game. Dante at the keyboard.</strong></p>
+<p><strong>Mizuhara in game. Dante at the keyboard.</strong><br />
+ゲームではMizuhara、キーボードの前ではDante。</p>
 
-<p>Information security, applied cryptography, and open-source software. Building KanjiWidgets daily; KryptBoard's browser preview and demo are live.</p>
+<p>I study information security and applied cryptography, and I enjoy building open-source software. I work on KanjiWidgets every day, and KryptBoard's browser preview and demo are live.<br />
+情報セキュリティと応用暗号を学びながら、オープンソースのソフトウェアを作っています。KanjiWidgetsを毎日開発していて、KryptBoardのブラウザープレビューとデモも公開しています。</p>
 
 <p align="left">
   <a href="https://github.com/brodante"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
@@ -29,12 +31,12 @@
       <p>M.Tech student in Information Security at NSUT, focused on practical security and open-source software. Japanese learner (JLPT N4, conversational).</p>
       <p>NSUTで情報セキュリティを専攻する修士課程の学生です。現在は漢字学習PWA「KanjiWidgets」を毎日開発し、送信前暗号化デモ「KryptBoard」も進めています。日本語はJLPT N4で、日常会話を少し話せます。</p>
       <h3>いま / CURRENT FOCUS</h3>
-      <p><strong>KanjiWidgets</strong> — Daily work on an offline-first kanji PWA for JLPT N5–N1, with spaced repetition.</p>
+      <p><strong>KanjiWidgets</strong> is my daily project. It is an offline-first kanji PWA with spaced repetition for JLPT levels N5 through N1.</p>
       <p>
         <a href="https://kanji.qd.je/"><img src="https://img.shields.io/badge/Live%20App-%232EA44F.svg?style=for-the-badge" alt="Open KanjiWidgets live app" /></a>
         <a href="https://github.com/brodante/kanji-widget-app"><img src="https://img.shields.io/badge/Source-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View KanjiWidgets source" /></a>
       </p>
-      <p><strong>KryptBoard</strong> — A browser demo of pre-send authenticated encryption with ChaCha20-Poly1305.</p>
+      <p><strong>KryptBoard</strong> is a browser demo of authenticated encryption before text is sent. It uses ChaCha20-Poly1305.</p>
       <p>
         <a href="https://brodante.github.io/KryptBoard/"><img src="https://img.shields.io/badge/Preview-%230A66C2.svg?style=for-the-badge" alt="Open KryptBoard browser preview" /></a>
         <a href="https://brodante.github.io/KryptBoard/demo/demo.html"><img src="https://img.shields.io/badge/Try%20Demo-%237C3AED.svg?style=for-the-badge" alt="Try the interactive KryptBoard demo" /></a>
