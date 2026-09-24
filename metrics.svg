@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics setup in progress</title>
+  <desc id="desc">This placeholder will be replaced by the GitHub Metrics Action.</desc>
+  <rect width="1000" height="230" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <path d="M42 51h6v6h-6zM55 51h6v6h-6zM68 51h6v6h-6z" fill="#d9a8ca"/>
+  <text x="42" y="105" fill="#f0f6fc" font-family="system-ui, sans-serif" font-size="25" font-weight="650">GitHub metrics are getting ready</text>
+  <text x="42" y="145" fill="#aab4c0" font-family="system-ui, sans-serif" font-size="17">Run the “Update profile metrics” workflow once to populate this card.</text>
+  <text x="42" y="183" fill="#8994a3" font-family="system-ui, sans-serif" font-size="14">After setup, GitHub activity, repositories, and languages refresh automatically.</text>
+  <path d="M845 151c22-30 52-33 79-3 19 21 31 25 43 11" fill="none" stroke="#e3aacd" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+  <circle cx="846" cy="151" r="5" fill="#e3aacd"/><circle cx="924" cy="159" r="4" fill="#b9b0eb"/>
+</svg>

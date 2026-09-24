@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+  <title id="title">AniList panel setup in progress</title>
+  <desc id="desc">Anime, manga, and character picks will appear here after the metrics workflow runs.</desc>
+  <rect width="1000" height="190" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <rect x="34" y="34" width="5" height="122" rx="2.5" fill="#e3aacd"/>
+  <text x="62" y="78" fill="#f0f6fc" font-family="system-ui, sans-serif" font-size="24" font-weight="650">Your anime shelf is on its way</text>
+  <text x="62" y="116" fill="#aab4c0" font-family="system-ui, sans-serif" font-size="17">Run “Update profile metrics” once to load favorites, currently watching and reading,</text>
+  <text x="62" y="144" fill="#aab4c0" font-family="system-ui, sans-serif" font-size="17">and liked characters from AniList user spsc.</text>
+  <circle cx="866" cy="95" r="33" fill="#1b2330" stroke="#b9b0eb" stroke-width="2"/>
+  <path d="M852 96c8-14 20-14 28 0-8 13-20 13-28 0Z" fill="none" stroke="#e3aacd" stroke-width="2"/>
+  <circle cx="866" cy="96" r="4" fill="#e3aacd"/>
+</svg>
